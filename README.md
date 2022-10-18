@@ -2,9 +2,9 @@
 
 My all certificates that I have received from NPTEL , IIT Madras.
 
-List of subjects I was enrolled in - **Data Science , DBMS , DSA , Discrete Maths , C++ , C , Java , Python**  
+List of subjects I was enrolled in - **Data Science , Machine Learning , DBMS , DSA , Discrete Maths , C++ , C , Java , Python**  
 
-My overall average score is **84.67 out of 100 in total 92 weeks of course**.
+My overall average score is **84.9 % in total 100 weeks of course**.
 
 
 ## **A.** **[NPTEL DISCIPLINE STARS](https://github.com/nirajkumar999/NPTEL-CERTIFICATES/blob/main/NPTEL%20DISCIPLINE%20STARS.pdf)** - certified in courses of same discipline , completed more than 50 weeks of learning , final score in each subject >=55.
@@ -24,13 +24,15 @@ My overall average score is **84.67 out of 100 in total 92 weeks of course**.
 
 ## **H.** **[Problem solving through Programming In C (IIT Kharagpur)](https://github.com/nirajkumar999/NPTEL-CERTIFICATES/blob/main/Problem%20solving%20through%20Programming%20In%20C%20(IITKgp)%20-%20%20Elite%20%2B%20Silver%20Medal%20%2C%2088%20out%20of%20100%20%2C%20in%20Top%205%25.pdf)** -  _Elite + Silver Medal_ , 88 out of 100 , in Top 5 %
 
-## **I.** **[Discrete Mathematics (IIT Madras)](https://github.com/nirajkumar999/NPTEL-CERTIFICATES/blob/main/Discrete%20Mathematics%20(IITM)%20-%20%20Elite%20%2B%20Silver%20Medal%20%2C%2080%20out%20of%20100.pdf)** -  _Elite + Silver Medal_ , 80 out of 100
+## **I.** **[Introduction to Machine Learning (IIT Kharagpur)](https://github.com/nirajkumar999/NPTEL-CERTIFICATES/blob/main/Introduction%20to%20Machine%20Learning%20(IITKgp)%20-%20Elite%20%2B%20Silver%20%2C%2087%20out%20of%20100%20%2C%20in%20Top%202%25.pdf)** -  _Elite + Silver Medal_ , 87 out of 100 , in Top 2%
 
-## **J.** **[Introduction to Database Systems (IIT Madras)](https://github.com/nirajkumar999/NPTEL-CERTIFICATES/blob/main/Introduction%20to%20Database%20Systems%20(IIT%20Madras)%20-Elite%20%2B%20Silver%20Medal%20%2C%2078%20out%20of%20100%20%2C%20in%20Top%205%25.pdf)** -  _Elite + Silver Medal_ , 78 out of 100 , in top 5 %
+## **J.** **[Discrete Mathematics (IIT Madras)](https://github.com/nirajkumar999/NPTEL-CERTIFICATES/blob/main/Discrete%20Mathematics%20(IITM)%20-%20%20Elite%20%2B%20Silver%20Medal%20%2C%2080%20out%20of%20100.pdf)** -  _Elite + Silver Medal_ , 80 out of 100
 
-## **K.** **[Introduction to Programming in C (IIT Kanpur)](https://github.com/nirajkumar999/NPTEL-CERTIFICATES/blob/main/Introduction%20to%20Programming%20in%20C%20(IITK)%20-%20%20Elite%20%2C%2074%20out%20of%20100.pdf)** -  _Elite_ , 74 out of 100
+## **K.** **[Introduction to Database Systems (IIT Madras)](https://github.com/nirajkumar999/NPTEL-CERTIFICATES/blob/main/Introduction%20to%20Database%20Systems%20(IIT%20Madras)%20-Elite%20%2B%20Silver%20Medal%20%2C%2078%20out%20of%20100%20%2C%20in%20Top%205%25.pdf)** -  _Elite + Silver Medal_ , 78 out of 100 , in top 5 %
 
-## **L.** **[Data Science for Engineers (IIT Madras)](https://github.com/nirajkumar999/NPTEL-CERTIFICATES/blob/main/Data%20Science%20for%20Engineers%20(IITM)%20-%20%20Elite%20%2C%2071%20out%20of%20100.pdf)** -  _Elite_ , 71 out of 100
+## **L.** **[Introduction to Programming in C (IIT Kanpur)](https://github.com/nirajkumar999/NPTEL-CERTIFICATES/blob/main/Introduction%20to%20Programming%20in%20C%20(IITK)%20-%20%20Elite%20%2C%2074%20out%20of%20100.pdf)** -  _Elite_ , 74 out of 100
 
-## **M.** **[NPTEL-VuNet Data-Centric AI Masterclass (IIT Madras)](https://github.com/nirajkumar999/NPTEL-CERTIFICATES/blob/main/NPTEL-VuNet%20Data-Centric%20AI%20Masterclass%20(IITM)%20-%20%2080%20out%20of%20100.pdf)** -  80 out of 100
+## **M.** **[Data Science for Engineers (IIT Madras)](https://github.com/nirajkumar999/NPTEL-CERTIFICATES/blob/main/Data%20Science%20for%20Engineers%20(IITM)%20-%20%20Elite%20%2C%2071%20out%20of%20100.pdf)** -  _Elite_ , 71 out of 100
+
+## **N.** **[NPTEL-VuNet Data-Centric AI Masterclass (IIT Madras)](https://github.com/nirajkumar999/NPTEL-CERTIFICATES/blob/main/NPTEL-VuNet%20Data-Centric%20AI%20Masterclass%20(IITM)%20-%20%2080%20out%20of%20100.pdf)** -  80 out of 100
 
